@@ -1,0 +1,861 @@
+
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  localpage.java  - cityname
+[main] INFO  localpage.java  - date selected
+[main] INFO  localpage.java  - time
+[main] INFO  localpage.java  - selectbutton
+[main] INFO  localpage.java  - selectcar
+[main] INFO  localpage.java  - "CarType Validated :Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedononeway
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - tocityentered
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedonroundtrip
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - roundcityname
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedonreturndate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedononeway
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - tocityentered
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 4657
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedonroundtrip
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - roundcityname
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedonreturndate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 7493
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date not selected
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date not selected
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 945
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 931
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 945
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 969
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  localpage.java  - cityname
+[main] INFO  localpage.java  - date selected
+[main] INFO  localpage.java  - time
+[main] INFO  localpage.java  - selectbutton
+[main] INFO  localpage.java  - selectcar
+[main] INFO  localpage.java  - CarType Validated :Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - name
+[main] INFO  CorporateCarRental.java  - comapny
+[main] INFO  CorporateCarRental.java  - email
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedononeway
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - tocityentered
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 4657
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedonroundtrip
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - roundcityname
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedonreturndate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 7493
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LoginPage.java  - Sign in icon is clicked
+[main] DEBUG LoginPage.java  - Valid name id is entered
+[main] DEBUG LoginPage.java  - Valid Phone number is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Login is clicked and user lands on homepage
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - phone number not found
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - phone number not found
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 945
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 931
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  localpage.java  - cityname
+[main] INFO  localpage.java  - date selected
+[main] INFO  localpage.java  - time
+[main] INFO  localpage.java  - selectbutton
+[main] INFO  localpage.java  - selectcar
+[main] INFO  localpage.java  - CarType Validated :Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - name
+[main] INFO  CorporateCarRental.java  - comapny
+[main] INFO  CorporateCarRental.java  - email
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - phone number not found
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedononeway
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - tocityentered
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 4657
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedonroundtrip
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - roundcityname
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedonreturndate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 7493
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LoginPage.java  - Sign in icon is clicked
+[main] DEBUG LoginPage.java  - Valid name id is entered
+[main] DEBUG LoginPage.java  - Valid Phone number is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Login is clicked and user lands on homepage
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 1002
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 931
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  localpage.java  - cityname
+[main] INFO  localpage.java  - date selected
+[main] INFO  localpage.java  - time
+[main] INFO  localpage.java  - selectbutton
+[main] INFO  localpage.java  - selectcar
+[main] INFO  localpage.java  - CarType Validated :Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - name
+[main] INFO  CorporateCarRental.java  - comapny
+[main] INFO  CorporateCarRental.java  - email
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - phone number not found
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedononeway
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - tocityentered
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 4657
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  outstationpageobject.java  - clickedonroundtrip
+[main] INFO  outstationpageobject.java  - cityentered
+[main] INFO  outstationpageobject.java  - roundcityname
+[main] INFO  outstationpageobject.java  - clickedondate
+[main] INFO  outstationpageobject.java  - clickedonreturndate
+[main] INFO  outstationpageobject.java  - clickedontime
+[main] INFO  outstationpageobject.java  - clickedonselectcar
+[main] INFO  outstationpageobject.java  - clickedonfirstcar
+[main] INFO  outstationpageobject.java  - validated? 7493
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LoginPage.java  - Sign in icon is clicked
+[main] DEBUG LoginPage.java  - Valid name id is entered
+[main] DEBUG LoginPage.java  - Valid Phone number is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Login is clicked and user lands on homepage
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 1002
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  AirportPage.java  - Date  selected
+[main] DEBUG AirportPage.java  - select Pickuptime 
+[main] INFO  AirportPage.java  - selectcar
+[main] INFO  AirportPage.java  - firstcar
+[main] INFO  AirportPage.java  - Price Validated : ? 931
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  localpage.java  - cityname
+[main] INFO  localpage.java  - date selected
+[main] INFO  localpage.java  - time
+[main] INFO  localpage.java  - selectbutton
+[main] INFO  localpage.java  - selectcar
+[main] INFO  localpage.java  - CarType Validated :Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - name
+[main] INFO  CorporateCarRental.java  - comapny
+[main] INFO  CorporateCarRental.java  - email
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - phone number not found
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+
